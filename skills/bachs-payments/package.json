@@ -1,0 +1,12 @@
+{
+  "name": "bachs-payments",
+  "version": "1.0.0",
+  "description": "Bachs (bachs.io) payments & subscriptions client — zero-dependency TypeScript.",
+  "type": "module",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^20.0.0"
+  }
+}
